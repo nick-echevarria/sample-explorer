@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SampleComponent = () => {
+const VideoContainer = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const SampleComponent = () => {
     );
 }
 
-export default SampleComponent;
+export default VideoContainer;
